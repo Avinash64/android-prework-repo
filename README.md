@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Had some trouble at first with persistance but the troubleshooting section helped.
+Had trouble showing the gif from imgur so I added it to repository.
 
 ## License
 
